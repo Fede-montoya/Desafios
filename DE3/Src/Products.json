@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Nuevo Audi A3",
+      "description": "Description of the Audi A3",
+      "price": 50000,
+      "thumbnail": "path/image_audi_a3.jpg",
+      "code": "AUDI-A3",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "title": "Audi A1",
+      "description": "Description of the Audi A1",
+      "price": 40000,
+      "thumbnail": "path/image_audi_a1.jpg",
+      "code": "AUDI-A1",
+      "stock": 8
+    },
+    {
+      "id": 3,
+      "title": "Mercedes Benz GLA 250",
+      "description": "Description of the Mercedes Benz GLA 250",
+      "price": 50000,
+      "thumbnail": "path/image_mercedes_gla250.jpg",
+      "code": "MB-GLA250",
+      "stock": 5
+    },
+    {
+      "id": 4,
+      "title": "Toyota SW4 GR",
+      "description": "Description of the Toyota SW4 GR",
+      "price": 65000,
+      "thumbnail": "path/image_toyota_sw4_gr.jpg",
+      "code": "TOYOTA-SW4-GR",
+      "stock": 7
+    },
+    {
+      "id": 5,
+      "title": "Ford Focus",
+      "description": "Description of the Ford Focus",
+      "price": 38000,
+      "thumbnail": "path/image_ford_focus.jpg",
+      "code": "FORD-FOCUS",
+      "stock": 6
+    },
+    {
+      "id": 6,
+      "title": "Peugeot 208 GTI",
+      "description": "Description of the Peugeot 208 GTI",
+      "price": 42000,
+      "thumbnail": "path/image_peugeot_208_gti.jpg",
+      "code": "PEUGEOT-208-GTI",
+      "stock": 9
+    },
+    {
+        "id": 7,
+        "title": "Audi Q2",
+        "description": "Description of the Audi Q2",
+        "price": 52000,
+        "thumbnail": "path/image_audi_q2.jpg",
+        "code": "AUDI-Q2",
+        "stock": 8
+      },
+      {
+        "id": 8,
+        "title": "Audi Q3",
+        "description": "Description of the Audi Q3",
+        "price": 58000,
+        "thumbnail": "path/image_audi_q3.jpg",
+        "code": "AUDI-Q3",
+        "stock": 6
+      },
+      {
+        "id": 9,
+        "title": "BMW 135i",
+        "description": "Description of the BMW 135i",
+        "price": 32000,
+        "thumbnail": "path/image_bmw_135i.jpg",
+        "code": "BMW-135i",
+        "stock": 4
+      },
+      {
+        "id": 10,
+        "title": "Volkswagen Tiguan",
+        "description": "Description of the Volkswagen Tiguan",
+        "price": 24000,
+        "thumbnail": "path/image_volkswagen_tiguan.jpg",
+        "code": "VW-TIGUAN",
+        "stock": 7
+      }
+  ]  

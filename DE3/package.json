@@ -1,0 +1,19 @@
+{
+  "name": "de3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/App.js",
+  "type": "module",
+  "scripts": {
+  "start": "node App.js",
+  "dev": "nodemon ."
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "uuid": "^9.0.1"
+  }
+}
