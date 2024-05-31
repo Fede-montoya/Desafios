@@ -43,15 +43,16 @@
     "thumbnail": "path/image_peugeot_208_gti.jpg",
     "code": "PEUGEOT-208-GTI",
     "stock": 9
-  }
-]le": "Peugeot 208 GTI",
+  },
+  {
+    "id":"Peugeot 208 GTI",
     "description": "Description of the Peugeot 208 GTI",
     "price": 52000,
     "thumbnail": "path/image_peugeot_208_gti.jpg",
     "code": "PEUGEOT-208-GTI",
     "stock": 9
   }
-]  {
+  ,{
     "title": "Audi A3",
     "description": "Descripción del Audi A3",
     "price": 50000,
